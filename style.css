@@ -3,5 +3,37 @@
     padding:0;
 }
 #page{
-    color: chartreuse;
+    text-align: center;
+    margin-top: 50px;
+    padding-top:20px;
+    padding-bottom:10px;
+    background-color:lightslategrey;
+    border: lightslategrey;
+    border-radius: 5px;
+}
+#submit{
+    width:200px;
+    height: 30px;
+    border:1px;
+    border-radius: 1px;
+    background-color:greenyellow;
+}
+#username{
+    width:200px;
+    height:30px;
+    border: 1px;
+    border-radius: 1px;
+}
+#password{
+    width:200px;
+    height:30px;
+    border: 1px;
+    border-radius:1px;
+}
+a{
+    color:greenyellow;
+    text-decoration: none;
+}
+#no-login{
+    font-size: 12.5px;
 }
