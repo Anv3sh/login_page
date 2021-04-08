@@ -8,8 +8,8 @@
     margin-top: 50px;
     padding-top:20px;
     padding-bottom:10px;
-    background-color:lightslategrey;
-    border: lightslategrey;
+    background-color:#c9c9c9;
+    border: #c9c9c9;
     border-radius: 5px;
     
 }
@@ -19,6 +19,7 @@
     height:30px;
     border: 1px;
     border-radius: 1px;
+    background-color: ;
 }
 
 #password{
@@ -33,11 +34,11 @@
     height: 30px;
     border:1px;
     border-radius: 1px;
-    background-color:greenyellow;
+    background-color:#009900;
 }
 
 a{
-    color:greenyellow;
+    color:#009900;
     text-decoration: none;
 }
 
