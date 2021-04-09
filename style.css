@@ -41,15 +41,16 @@ body{
 }
 
 #submit{
+    color:floralwhite;
     width:202.5px;
-    height: 30px;
+    height: 35px;
     font-size: 16.5px;
     border:1px;
     border-radius: 2.3px;
     background-color:#009900;
 }
 #submit:hover{
-    filter: contrast(79%);
+    filter: contrast(81%);
 }
 a{
     color:#009900;
@@ -61,5 +62,5 @@ a:hover{
 }
 
 #no-login{
-    font-size: 12.5px;
+    font-size: 13px;
 }
