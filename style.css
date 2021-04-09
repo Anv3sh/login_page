@@ -10,7 +10,7 @@ body{
 
 #page{
     text-align: center;
-    margin-top: 180px;
+    margin-top: 160px;
     padding-top:40px;
     padding-right: 50px;
     padding-left: 50px;
@@ -28,6 +28,7 @@ body{
     border: 1px;
     border-radius: 2.3px;
     background-color:mintcream;
+    padding-left: 2.5px;
 }
 
 #password{
@@ -36,6 +37,7 @@ body{
     border: 1px;
     border-radius:2.3px;
     background-color: mintcream;
+    padding-left: 2.5px;
 }
 
 #submit{
