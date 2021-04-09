@@ -11,10 +11,10 @@ body{
 #page{
     text-align: center;
     margin-top: 160px;
-    padding-top:40px;
+    padding-top:50px;
     padding-right: 50px;
     padding-left: 50px;
-    padding-bottom:40px;
+    padding-bottom:60px;
     background-color:#c9c9c9;
     border: #c9c9c9;
     border-radius: 5px;
@@ -41,7 +41,7 @@ body{
 }
 
 #submit{
-    width:200px;
+    width:202.5px;
     height: 30px;
     font-size: 16.5px;
     border:1px;
